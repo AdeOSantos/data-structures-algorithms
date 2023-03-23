@@ -1,0 +1,15 @@
+C:\repositories\github\dotnet-console-app\bin\Debug\net7.0\dotnet-console-app.exe
+C:\repositories\github\dotnet-console-app\bin\Debug\net7.0\dotnet-console-app.deps.json
+C:\repositories\github\dotnet-console-app\bin\Debug\net7.0\dotnet-console-app.runtimeconfig.json
+C:\repositories\github\dotnet-console-app\bin\Debug\net7.0\dotnet-console-app.dll
+C:\repositories\github\dotnet-console-app\bin\Debug\net7.0\dotnet-console-app.pdb
+C:\repositories\github\dotnet-console-app\obj\Debug\net7.0\dotnet-console-app.csproj.AssemblyReference.cache
+C:\repositories\github\dotnet-console-app\obj\Debug\net7.0\dotnet-console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositories\github\dotnet-console-app\obj\Debug\net7.0\dotnet-console-app.AssemblyInfoInputs.cache
+C:\repositories\github\dotnet-console-app\obj\Debug\net7.0\dotnet-console-app.AssemblyInfo.cs
+C:\repositories\github\dotnet-console-app\obj\Debug\net7.0\dotnet-console-app.csproj.CoreCompileInputs.cache
+C:\repositories\github\dotnet-console-app\obj\Debug\net7.0\dotnet-console-app.dll
+C:\repositories\github\dotnet-console-app\obj\Debug\net7.0\refint\dotnet-console-app.dll
+C:\repositories\github\dotnet-console-app\obj\Debug\net7.0\dotnet-console-app.pdb
+C:\repositories\github\dotnet-console-app\obj\Debug\net7.0\dotnet-console-app.genruntimeconfig.cache
+C:\repositories\github\dotnet-console-app\obj\Debug\net7.0\ref\dotnet-console-app.dll
