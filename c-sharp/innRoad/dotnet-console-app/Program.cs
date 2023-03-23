@@ -32,6 +32,7 @@ internal class Program
         queries.Add(105338);
         queries.Add(105410);
 
+        //Call the functions that calculates the cache size.
         List<int> counts = CacheCalculation.getCacheSize(data, queries);
 
         foreach (var i in counts) Console.WriteLine (i);
